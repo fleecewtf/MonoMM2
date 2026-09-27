@@ -3570,7 +3570,7 @@ function MonoUI:_buildCredits()
 
     linkRow("Made by", "fleece", "user", nil)
     linkRow("Other Scripts", "robloxscripts.com/user/Fleece", "file-code", "https://robloxscripts.com/user/Fleece")
-    linkRow("GitHub", "github.com/fleecelolll", "hammer", "https://github.com/fleecelolll")
+    linkRow("GitHub", "github.com/fleecewtf", "hammer", "https://github.com/fleecewtf")
     linkRow("Discord", "@zquz", "message-circle", "@zquz")
     linkRow("Icons", "Lucide, via lucide-roblox by mstudio45", "shapes", nil)
 end
@@ -6392,7 +6392,7 @@ end
 
 local Menu = MonoUI.new({
     Title = "Mono", Version = "v1", Width = 860, Height = 560,
-    LogoUrl = "https://raw.githubusercontent.com/fleecelolll/MonoMM2/main/Mono%20MM2%20Logo.png",
+    LogoUrl = "https://raw.githubusercontent.com/fleecewtf/MonoMM2/main/Mono%20MM2%20Logo.png",
     LogoCache = "Mono MM2/logo-mm2.png",
     LogoHeight = 46, LogoAspect = 3,
     LogoMarkRect = { 19, 88, 200, 141 },
